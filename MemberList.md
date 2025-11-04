@@ -1,4 +1,5 @@
 김준기, JKQuantum, https://github.com/QIEclass2025/LadderAndChute
+장유진, yjj0066,  https://github.com/yjj0066/gcp.git
 박성욱, 2025311453, TimesNeoRoman, https://github.com/QIEclass2025/Dice_batting_game
 신동훈, 2025310733, donghuns0202, https://github.com/QIEclass2025/donghoon\_repo
 김건하, 2025313202, dent505, https://github.com/QIEclass2025/updowngame
